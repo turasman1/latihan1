@@ -2,4 +2,8 @@ tes
 tes2
 tes3
 tes4
+<<<<<<< HEAD
 tes5
+=======
+tes6
+>>>>>>> 45590843f6de142310437db9ba68623b937a0e5e
